@@ -11,19 +11,15 @@ This project focuses on detecting fake news articles using Natural Language Proc
 
 ---
 
-## 🔗 Download Datasets
 
-The datasets used in this project are available on Google Drive:
+### 🔗 Download Datasets
 
-- [Fake.csv (Google Drive)](https://drive.google.com/file/d/1C7BMGva3V5KXVyxv7u3HbTPH_9r8RcYX/view?usp=sharing)
-- [True.csv (Google Drive)](https://drive.google.com/file/d/1mQ4VDZz3d1zNhVx8IXGn0SMnQ9CYRKG9/view?usp=sharing)
+[![Download Fake.csv](https://img.shields.io/badge/Download-Fake.csv-brightgreen?style=for-the-badge)](https://drive.google.com/file/d/1mQ4VDZz3d1zNhVx8IXGn0SMnQ9CYRKG9/view?usp=sharing)
 
+[![Download True.csv](https://img.shields.io/badge/Download-True.csv-brightgreen?style=for-the-badge)](https://drive.google.com/file/d/1C7BMGva3V5KXVyxv7u3HbTPH_9r8RcYX/view?usp=sharing)
 
-> ⚠️ Please download both files and place them in the project root folder before running the notebook.
+> ⚠️ Please download both files and place them in the root directory of the project before running the notebook.
 
-
-
-> Please download both files and place them in the root folder before running the notebook.
 
 
 ## 🧠 Project Workflow
